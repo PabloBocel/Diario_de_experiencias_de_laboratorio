@@ -1,0 +1,15 @@
+D:\USUARIO\Desktop\URL\Primer Ciclo\Introduccion a la programacion\Andres\Diario_de_experiencias_de_laboratorio\Semana_5\L1P2_PABM_1109623\bin\Debug\net6.0\L1P2_PABM_1109623.exe
+D:\USUARIO\Desktop\URL\Primer Ciclo\Introduccion a la programacion\Andres\Diario_de_experiencias_de_laboratorio\Semana_5\L1P2_PABM_1109623\bin\Debug\net6.0\L1P2_PABM_1109623.deps.json
+D:\USUARIO\Desktop\URL\Primer Ciclo\Introduccion a la programacion\Andres\Diario_de_experiencias_de_laboratorio\Semana_5\L1P2_PABM_1109623\bin\Debug\net6.0\L1P2_PABM_1109623.runtimeconfig.json
+D:\USUARIO\Desktop\URL\Primer Ciclo\Introduccion a la programacion\Andres\Diario_de_experiencias_de_laboratorio\Semana_5\L1P2_PABM_1109623\bin\Debug\net6.0\L1P2_PABM_1109623.dll
+D:\USUARIO\Desktop\URL\Primer Ciclo\Introduccion a la programacion\Andres\Diario_de_experiencias_de_laboratorio\Semana_5\L1P2_PABM_1109623\bin\Debug\net6.0\L1P2_PABM_1109623.pdb
+D:\USUARIO\Desktop\URL\Primer Ciclo\Introduccion a la programacion\Andres\Diario_de_experiencias_de_laboratorio\Semana_5\L1P2_PABM_1109623\obj\Debug\net6.0\L1P2_PABM_1109623.csproj.AssemblyReference.cache
+D:\USUARIO\Desktop\URL\Primer Ciclo\Introduccion a la programacion\Andres\Diario_de_experiencias_de_laboratorio\Semana_5\L1P2_PABM_1109623\obj\Debug\net6.0\L1P2_PABM_1109623.GeneratedMSBuildEditorConfig.editorconfig
+D:\USUARIO\Desktop\URL\Primer Ciclo\Introduccion a la programacion\Andres\Diario_de_experiencias_de_laboratorio\Semana_5\L1P2_PABM_1109623\obj\Debug\net6.0\L1P2_PABM_1109623.AssemblyInfoInputs.cache
+D:\USUARIO\Desktop\URL\Primer Ciclo\Introduccion a la programacion\Andres\Diario_de_experiencias_de_laboratorio\Semana_5\L1P2_PABM_1109623\obj\Debug\net6.0\L1P2_PABM_1109623.AssemblyInfo.cs
+D:\USUARIO\Desktop\URL\Primer Ciclo\Introduccion a la programacion\Andres\Diario_de_experiencias_de_laboratorio\Semana_5\L1P2_PABM_1109623\obj\Debug\net6.0\L1P2_PABM_1109623.csproj.CoreCompileInputs.cache
+D:\USUARIO\Desktop\URL\Primer Ciclo\Introduccion a la programacion\Andres\Diario_de_experiencias_de_laboratorio\Semana_5\L1P2_PABM_1109623\obj\Debug\net6.0\L1P2_PABM_1109623.dll
+D:\USUARIO\Desktop\URL\Primer Ciclo\Introduccion a la programacion\Andres\Diario_de_experiencias_de_laboratorio\Semana_5\L1P2_PABM_1109623\obj\Debug\net6.0\refint\L1P2_PABM_1109623.dll
+D:\USUARIO\Desktop\URL\Primer Ciclo\Introduccion a la programacion\Andres\Diario_de_experiencias_de_laboratorio\Semana_5\L1P2_PABM_1109623\obj\Debug\net6.0\L1P2_PABM_1109623.pdb
+D:\USUARIO\Desktop\URL\Primer Ciclo\Introduccion a la programacion\Andres\Diario_de_experiencias_de_laboratorio\Semana_5\L1P2_PABM_1109623\obj\Debug\net6.0\L1P2_PABM_1109623.genruntimeconfig.cache
+D:\USUARIO\Desktop\URL\Primer Ciclo\Introduccion a la programacion\Andres\Diario_de_experiencias_de_laboratorio\Semana_5\L1P2_PABM_1109623\obj\Debug\net6.0\ref\L1P2_PABM_1109623.dll
