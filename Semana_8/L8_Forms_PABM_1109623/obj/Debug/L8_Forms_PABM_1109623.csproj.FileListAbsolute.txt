@@ -1,0 +1,11 @@
+D:\Universidad\Primer ciclo\Intro a progra\Lab intro a progra\Semana_8\L8_Forms_PABM_1109623\bin\Debug\L8_Forms_PABM_1109623.exe.config
+D:\Universidad\Primer ciclo\Intro a progra\Lab intro a progra\Semana_8\L8_Forms_PABM_1109623\bin\Debug\L8_Forms_PABM_1109623.exe
+D:\Universidad\Primer ciclo\Intro a progra\Lab intro a progra\Semana_8\L8_Forms_PABM_1109623\bin\Debug\L8_Forms_PABM_1109623.pdb
+D:\Universidad\Primer ciclo\Intro a progra\Lab intro a progra\Semana_8\L8_Forms_PABM_1109623\obj\Debug\L8_Forms_PABM_1109623.csproj.AssemblyReference.cache
+D:\Universidad\Primer ciclo\Intro a progra\Lab intro a progra\Semana_8\L8_Forms_PABM_1109623\obj\Debug\L8_Forms_PABM_1109623.csproj.SuggestedBindingRedirects.cache
+D:\Universidad\Primer ciclo\Intro a progra\Lab intro a progra\Semana_8\L8_Forms_PABM_1109623\obj\Debug\L8_Forms_PABM_1109623.Sumatoria.resources
+D:\Universidad\Primer ciclo\Intro a progra\Lab intro a progra\Semana_8\L8_Forms_PABM_1109623\obj\Debug\L8_Forms_PABM_1109623.Properties.Resources.resources
+D:\Universidad\Primer ciclo\Intro a progra\Lab intro a progra\Semana_8\L8_Forms_PABM_1109623\obj\Debug\L8_Forms_PABM_1109623.csproj.GenerateResource.cache
+D:\Universidad\Primer ciclo\Intro a progra\Lab intro a progra\Semana_8\L8_Forms_PABM_1109623\obj\Debug\L8_Forms_PABM_1109623.csproj.CoreCompileInputs.cache
+D:\Universidad\Primer ciclo\Intro a progra\Lab intro a progra\Semana_8\L8_Forms_PABM_1109623\obj\Debug\L8_Forms_PABM_1109623.exe
+D:\Universidad\Primer ciclo\Intro a progra\Lab intro a progra\Semana_8\L8_Forms_PABM_1109623\obj\Debug\L8_Forms_PABM_1109623.pdb
